@@ -1,0 +1,10 @@
+(nafees@kali)-[~/Desktop]
+$ ls
+(nafees@kali)-[~/Dekstop]
+$ cd fb-phish
+(nafees@kali)-[~/Desktop/fb-phish]
+$ ls 
+READMS.md command-line composer-lock public             storage vendor
+app       composer.json index.php    social-engineering testing views
+(nafees@kali)-[~/Desktop/fb/-phish]
+$ php -S 192.168.100.38.8080
